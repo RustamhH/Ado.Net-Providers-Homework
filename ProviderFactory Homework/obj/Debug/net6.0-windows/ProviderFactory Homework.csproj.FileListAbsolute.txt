@@ -1,0 +1,55 @@
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\bin\Debug\net6.0-windows\ProviderFactory Homework.exe
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\bin\Debug\net6.0-windows\ProviderFactory Homework.deps.json
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\bin\Debug\net6.0-windows\ProviderFactory Homework.runtimeconfig.json
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\bin\Debug\net6.0-windows\ProviderFactory Homework.dll
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\bin\Debug\net6.0-windows\ProviderFactory Homework.pdb
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\obj\Debug\net6.0-windows\ProviderFactory Homework.csproj.AssemblyReference.cache
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\obj\Debug\net6.0-windows\App.g.cs
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\obj\Debug\net6.0-windows\ProviderFactory Homework_MarkupCompile.cache
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\obj\Debug\net6.0-windows\ProviderFactory Homework_MarkupCompile.lref
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\obj\Debug\net6.0-windows\MainWindow.baml
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\obj\Debug\net6.0-windows\ProviderFactory Homework.g.resources
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\obj\Debug\net6.0-windows\ProviderFactory Homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\obj\Debug\net6.0-windows\ProviderFactory Homework.AssemblyInfoInputs.cache
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\obj\Debug\net6.0-windows\ProviderFactory Homework.AssemblyInfo.cs
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\obj\Debug\net6.0-windows\ProviderFactory Homework.csproj.CoreCompileInputs.cache
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\obj\Debug\net6.0-windows\ProviderFactory Homework.csproj.CopyComplete
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\obj\Debug\net6.0-windows\ProviderFactory Homework.dll
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\obj\Debug\net6.0-windows\refint\ProviderFactory Homework.dll
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\obj\Debug\net6.0-windows\ProviderFactory Homework.pdb
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\obj\Debug\net6.0-windows\ProviderFactory Homework.genruntimeconfig.cache
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\obj\Debug\net6.0-windows\ref\ProviderFactory Homework.dll
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\bin\Debug\net6.0-windows\appsettings.json
+D:\ADO.NET\ProviderFactory Homework\ProviderFactory Homework\obj\Debug\net6.0-windows\ProviderFactory Homework_Content.g.cs
