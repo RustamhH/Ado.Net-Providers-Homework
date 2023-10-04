@@ -1,5 +1,6 @@
 ﻿using Microsoft.Extensions.Configuration;
 using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Configuration.Provider;
 using System.Data;
@@ -79,7 +80,7 @@ namespace ProviderFactory_Homework
         }
 
 
-        public ListView NormalExecuteQuery()
+        public void NormalExecuteQuery()
         {
             using var command = connection.CreateCommand();
             command.CommandText = QueryTextBox.Text;
@@ -87,29 +88,31 @@ namespace ProviderFactory_Homework
             var adapter = providerFactory.CreateDataAdapter();
             adapter.SelectCommand = command;
 
-            DataTable table = new DataTable();
+            DataSet table = new DataSet();
             adapter.Fill(table);
-            
-            ListView list = new ListView();
-            GridView gridView = new GridView();
 
-            foreach (DataColumn column in table.Columns)
+
+            for (int i = 0; i < table.Tables.Count; i++)
             {
-                gridView.Columns.Add(new GridViewColumn
+                DataGrid dataGrid = new DataGrid();
+                if (i == 0)
                 {
-                    Header = column.ColumnName,
-                    DisplayMemberBinding = new Binding(column.ColumnName)
-                });
+                    dataGrid.ItemsSource = table.Tables["table"].DefaultView;
+                }
+                else
+                {
+                    dataGrid.ItemsSource = table.Tables[$"table{i}"].DefaultView;
+                }
+                TabItem newTabItem = new TabItem();
+                newTabItem.Header = "New Tab";
+                newTabItem.Content = dataGrid;
+                tabControl.Items.Add(newTabItem);
             }
 
-            list.View = gridView;
-            list.ItemsSource = table.DefaultView;
 
-            return list;
+
+
         }
- 
-
-
 
 
 
@@ -119,12 +122,7 @@ namespace ProviderFactory_Homework
         {
 
             if (ProvidersComboBox.SelectedItem is null || string.IsNullOrEmpty(QueryTextBox.Text)) return;
-
-            TabItem newTabItem = new TabItem();
-            newTabItem.Header = "New Tab"; 
-            newTabItem.Content = NormalExecuteQuery();
-            tabControl.Items.Add(newTabItem);
-            tabControl.SelectedItem = newTabItem;
+            NormalExecuteQuery();
 
 
 
