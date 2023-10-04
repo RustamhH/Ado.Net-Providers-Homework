@@ -98,10 +98,40 @@ namespace ProviderFactory_Homework
                 if (i == 0)
                 {
                     dataGrid.ItemsSource = table.Tables["table"].DefaultView;
+
+                    DataTableMapping dataTableMapping = new DataTableMapping();
+                    dataTableMapping.SourceTable = "table";
+                    dataTableMapping.DataSetTable = "first";
+
+
+     
+
+
+                    DataColumnMapping dataColumnMapping = new DataColumnMapping();
+                    dataColumnMapping.SourceColumn = "Id";
+                    dataColumnMapping.DataSetColumn = "sira No";
+
+                    dataTableMapping.ColumnMappings.Add(dataColumnMapping);
+                    adapter.TableMappings.Add(dataTableMapping);
+
                 }
                 else
                 {
                     dataGrid.ItemsSource = table.Tables[$"table{i}"].DefaultView;
+                    DataTableMapping dataTableMapping = new DataTableMapping();
+                    dataTableMapping.SourceTable = $"table{i}";
+                    dataTableMapping.DataSetTable = $"table no{i}";
+
+
+
+
+
+                    DataColumnMapping dataColumnMapping = new DataColumnMapping();
+                    dataColumnMapping.SourceColumn = "Id";
+                    dataColumnMapping.DataSetColumn = "sira No";
+
+                    dataTableMapping.ColumnMappings.Add(dataColumnMapping);
+                    adapter.TableMappings.Add(dataTableMapping);
                 }
                 TabItem newTabItem = new TabItem();
                 newTabItem.Header = "New Tab";
